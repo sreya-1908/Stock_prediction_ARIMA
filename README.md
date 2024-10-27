@@ -8,8 +8,6 @@ A time series analysis project that uses the ARIMA (AutoRegressive Integrated Mo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project demonstrates the use of ARIMA for forecasting stock prices. ARIMA is a powerful tool for time series prediction, commonly used in finance and economics. Using historical stock data, this model predicts future stock values by analyzing patterns in past data.
@@ -23,8 +21,7 @@ This project demonstrates the use of ARIMA for forecasting stock prices. ARIMA i
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/StockForecastingARIMA.git
-   cd StockForecastingARIMA
+   git clone https://github.com/sreya-1908/Stock_prediction_ARIMA/tree/main
 
 ## Results
 The model will output the forecasted values for a specified number of days. These results are visualized in a time series plot, comparing historical and predicted stock prices.
